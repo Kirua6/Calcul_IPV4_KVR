@@ -23,3 +23,4 @@ public:
     void ObtenirAdresseDiffusion(unsigned char * _diffusion);
 };
 #endif // IPV4_H
+// KVR
