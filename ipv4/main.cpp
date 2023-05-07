@@ -123,3 +123,4 @@ void AfficherTableau(unsigned char *tab)
     }
     cout << endl;
 }
+// KVR
